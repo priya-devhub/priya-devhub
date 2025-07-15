@@ -25,7 +25,7 @@ I'm a passionate Full Stack Web Developer skilled in both frontend and backend t
 - **Frontend**: HTML, CSS, JavaScript, React, Bootstrap
 - **Backend**: Java, Spring Boot, REST API
 - **Database**: MySQL, PostgreSQL
-- **Tools**: Git, GitHub, Postman, VS Code, IntelliJ
+- **Tools**: Git, GitHub, Postman, VS Code, IntelliJ,eclipse
 
 ---
 
